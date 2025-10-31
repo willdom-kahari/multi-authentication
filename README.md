@@ -29,7 +29,7 @@ You do not need to install Gradle; the project uses the Gradle Wrapper (`./gradl
 
 ### Clone
 ```bash
-git clone <your-fork-or-repo-url>
+git clone https://github.com/willdom-kahari/multi-authentication.git
 cd multi-authentication
 ```
 
